@@ -1,0 +1,57 @@
+html {
+    padding: 0;
+    margin: 0;
+    display: grid;
+}
+html{
+    font-family: monospace;
+}
+body{
+    background: linear-gradient(90deg, #eee 1%, transparent 1%) 1px 0, #fff;
+    background-size: 54px 1px;
+  }
+h1{
+    text-align: center;
+}
+
+
+
+
+.header{
+    font-size: large;
+    display: flex;
+    margin: -8px;
+    background-color: black;
+    color: white;
+}
+/*make the buttons side by side insead of on tp of each other*/
+button{
+    margin: auto;
+    
+    height: 40px;
+    width: 60x;
+   
+    
+margin: 0 auto;
+display: inline;}
+
+    .Lunch{
+        
+        background-color: black;
+        color: #eee;
+    }
+
+    .Dinner{
+        background-color: white;
+    }
+
+.intro{
+    display: flex;
+margin-top: 5%;
+margin-left: -1%;
+}
+
+.welcome{
+    display: flex;
+
+}
