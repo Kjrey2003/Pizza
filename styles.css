@@ -4,16 +4,18 @@ html {
     display: grid;
 }
 html{
-    font-family: monospace;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    ;
 }
 body{
     background: linear-gradient(90deg, #eee 1%, transparent 1%) 1px 0, #fff;
     background-size: 54px 1px;
   }
-h1{
-    text-align: center;
-}
 
+#h1{
+    text-align: center;
+    font-size: xx-large;
+}
 
 
 
@@ -54,4 +56,12 @@ margin-left: -1%;
 .welcome{
     display: flex;
 
+}
+
+.Special{
+    font-size: xx-large;
+    text-align: center;
+    position: absolute;
+    top: 230px;
+    right: 300px;
 }
